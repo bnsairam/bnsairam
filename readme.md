@@ -1,5 +1,5 @@
 <!--  ──────────────────────────────────────────────────────────────  -->
-<!--  bnsairam – Data Scientist GitHub Profile (Screenshot Match)       -->
+<!--  bnsairam – Data Scientist Profile (Screenshot‑Perfect)           -->
 <!--  ──────────────────────────────────────────────────────────────  -->
 
 <div align="center">
@@ -37,12 +37,12 @@ Hi! I'm **bnsairam** – a **Data Scientist** passionate about:
 
 | Metric | Value |
 |-------|-------|
-| **GitHub Followers** | ![GitHub followers](https://img.shields.io/github/followers/bnsairam?style=social) |
-| **LeetCode Solved** | `‑‑` → [View Profile](https://leetcode.com/u/bnsairam_14/) |
+| **GitHub Followers** | ![GitHub followers](https://img.shields.io/github/followers/bnsairam?style=social) `0` |
+| **LeetCode Solved** | `---` → [View Profile](https://leetcode.com/u/bnsairam_14/) |
 | **Languages** | Python, SQL, R |
 | **Frameworks** | PyTorch, TensorFlow, Scikit‑learn, LangChain |
 | **Cloud** | AWS, GCP, Azure |
-| **License** | **None (Learning Only)** |
+| **License** | None (Learning Only) |
 
 ---
 
