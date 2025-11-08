@@ -5,8 +5,6 @@
 
 <div align="center">
 
-![Hero Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,10&height=220&section=header&text=bnsairam&fontSize=90&fontAlignY=40&animation=twinkling)
-
 > **Data Scientist | ML Engineer | MLOps Practitioner**  
 > *Turning raw data into scalable, intelligent systems with code, math & curiosity.*
 
