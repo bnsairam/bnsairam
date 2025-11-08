@@ -1,6 +1,6 @@
 <!-- ────────────────────────────────────────────────────────────── -->
 <!-- 🚀 bnsairam — Data Scientist | ML Engineer | Problem Solver     -->
-<!-- Google-Level GitHub Profile | Cinematic 2025 Edition             -->
+<!-- Elite 2025 Profile • Optimized for Recruiter & Technical Impact -->
 <!-- ────────────────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -8,7 +8,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000428,100:004e92&text=bnsairam&fontColor=ffffff&fontSize=90&fontAlignY=40&animation=twinkling)
 
 ### 🧠 Data Scientist  |  ML Engineer  |  Problem Solver  
-*Designing intelligent systems that think, learn, and deliver impact.*
+*Building data-driven intelligence that scales.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bnsairam.vercel.app-004e92?style=for-the-badge&logo=vercel&logoColor=white)](https://bnsairam.vercel.app/)
 [![GitHub](https://img.shields.io/github/followers/bnsairam?style=social)](https://github.com/bnsairam)
@@ -21,21 +21,21 @@
 
 ## 👋 About Me
 
-Hi, I’m **Sairam (bnsairam)** — a **Data Scientist** who loves turning *data chaos into intelligence*.  
-I build **ML pipelines**, **deploy scalable systems**, and **solve algorithmic challenges** that push limits.
+Hi, I’m **Sairam (bnsairam)** — a **Data Scientist** focused on **model performance, system reliability, and impact**.  
+I design and deploy machine learning systems that bridge research and production.
 
-> “Data is only noise until you make it learn.”
+> “Data is the new code — intelligence emerges where logic meets pattern.”
 
-### 🔹 What I Do
-- **LLM Systems** — RAG, LangChain, Embeddings, Vector Databases  
-- **Predictive Modeling** — Regression, Classification, Time-Series  
-- **Deep Learning** — CNNs, Transformers, Autoencoders  
-- **MLOps** — MLflow, DVC, Airflow, CI/CD Pipelines  
-- **Data Engineering** — dbt, Spark, Kafka, Cloud ETL  
+### 🔹 Focus Areas
+- **LLM Systems & RAG Pipelines** — LangChain, Transformers, Vector DBs  
+- **Predictive Modeling** — Regression, Classification, Forecasting  
+- **MLOps Engineering** — MLflow, Airflow, DVC, CI/CD  
+- **Cloud-Native ML** — AWS, GCP, Azure  
+- **Algorithmic Problem-Solving** — DSA & optimization for real-world constraints
 
 ---
 
-## ⚡ Core Technical Stack
+## ⚙️ Core Technical Stack
 
 ```yaml
 Languages:
